@@ -1,3 +1,6 @@
+# I'm adding one line of change here.
+
+
 --Primary Market Sales by Event (Event Sales Summary [Trx Date Range])
 --Allyson Miller, Tickets.com, 08-Jun-2016
 --Any SQL code provided is intended as a demonstration of the relationships and logical groupings of ProVenue® data.  It does not consider business logic variables that may be relevant as part of the setup and configuration of ProVenue or any business process or procedure that may result in transactions that are unique to a client.  The client assumes responsibility for testing the results of any application of this SQL to a specific ProVenue domain.  
